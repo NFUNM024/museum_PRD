@@ -137,7 +137,18 @@
 
 
 #### 五、产品原型流程图
+[原型文档](http://nfunm024_admin.gitee.io/mus/#g=1&p=%E5%B0%81%E9%9D%A2)
+[原型文档下载](https://gitee.com/NFUNM024_admin/mus)
 
-用户使用产品的流程
++ 用户使用产品的流程
 
-界面之间的关系
+![用户使用产品的流程](https://github.com/NFUNM024/api-/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86/%E6%B5%81%E7%A8%8B%E5%9B%BE.png "")
+
++小程序使用流程图
+
+![小程序使用流程图](https://github.com/NFUNM024/api-/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86/%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B%E5%9B%BE.png "")
+##### 交互及界面设计
+![交互及界面设计](https://github.com/NFUNM024/api-/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86/1.png "")
+##### 信息设计
+![交互及界面设计](https://github.com/NFUNM024/api-/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86/2.png "")
+![交互及界面设计](https://github.com/NFUNM024/api-/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86/3.png "")
