@@ -150,5 +150,5 @@
 ##### 交互及界面设计
 ![交互及界面设计](https://github.com/NFUNM024/api-/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86/1.png "")
 ##### 信息设计
-![交互及界面设计](https://github.com/NFUNM024/api-/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86/2.png "")
-![交互及界面设计](https://github.com/NFUNM024/api-/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86/3.png "")
+![信息设计](https://github.com/NFUNM024/api-/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86/2.png "")
+![信息设计](https://github.com/NFUNM024/api-/blob/master/%E5%8D%9A%E7%89%A9%E9%A6%86/3.png "")
